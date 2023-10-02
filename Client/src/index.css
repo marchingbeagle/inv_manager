@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import-normalize;
+
+html {
+  width: 100vh;
+  height: 100vh;
+}
